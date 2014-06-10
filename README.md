@@ -1,0 +1,4 @@
+docker-wssh
+===========
+
+wssh dockerfile
